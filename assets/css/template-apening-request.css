@@ -1,0 +1,21 @@
+#opening-request{
+    max-width: 700px;
+}
+#header{
+    height: 250px;
+    background-image: url('../images/background_mindworks.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 700px;
+}
+#background-header-logo{
+    max-width: 700px;
+    position: absolute;
+    z-index: -1;
+}
+hr{
+    border: 5px solid #073d68;
+    border-radius: 20%;
+    opacity: 100%;
+    width: 70px;
+}
