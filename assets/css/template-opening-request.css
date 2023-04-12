@@ -1,0 +1,18 @@
+.header > div > h3{
+    font-size: 25pt;
+    font-weight: bolder;
+}
+.icon-main{
+    font-size: 60pt;
+}
+.bg-alert{
+    background-color: #D1E7DD;
+}
+.text-alert{
+    font-size: 15pt;
+}
+.padrao-tamanhos{
+    background-color: #ffffff;
+    width: 640px;
+    height: 850px;
+}
