@@ -5,6 +5,10 @@
     font-family: 'Roboto', sans-serif;
     font-size: 15pt;
 }
+.header > div > h3{
+    font-size: 25pt;
+    font-weight: bolder;
+}
 .text-justify{
     text-align: justify;
 }
@@ -16,7 +20,7 @@
 }
 
 .bg-cinza10{
-    background-color: rgb(236, 247, 255);
+    background-color: rgb(236, 243, 255);
 }
 .header{
     height: 250px;
